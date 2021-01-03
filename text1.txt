@@ -1,2 +1,3 @@
 hello text
 abdelfatah here
+console.log(last)
