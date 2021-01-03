@@ -3,3 +3,4 @@ abdelfatah here
 console.log(last)
 console.log(last1)
 console.log(last2)
+console.log(last3)
