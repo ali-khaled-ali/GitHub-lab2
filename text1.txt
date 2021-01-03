@@ -2,3 +2,4 @@ hello text
 abdelfatah here
 console.log(last)
 console.log(last1)
+console.log(last2)
